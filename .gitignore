@@ -1,0 +1,20 @@
+# --- Compiled Binaries ---
+# Ignores files with no extension (common for macOS executables)
+normalDistribution
+inputGenerator
+Distributiontest
+* 2
+
+# --- macOS Debug Folders ---
+*.dSYM/
+
+# --- Data I/O ---
+*.in
+*.out
+
+# --- Visual Outputs ---
+*.pdf
+*.png
+
+# --- System Files ---
+.DS_Store
