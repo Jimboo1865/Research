@@ -1,0 +1,2 @@
+# Gaussian Smear Generator
+To run the simulation first download the files from GitHub. Then build **Distributiontest.cpp** and **inputGenerator.cpp**. Then run **inputGenerator.cpp** to generate the **input.in** file. After generating an input file run the **DistributionTest.cpp** file to create a smeared output file **output.out**. You can then run a ROOT macro to create a histogram `root -l plotData.C`.
