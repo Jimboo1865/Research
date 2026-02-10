@@ -15,9 +15,13 @@ Distributiontest
 # --- Visual Outputs ---
 *.pdf
 *.png
+PDFs/
 
 # --- System Files ---
 .DS_Store
 
 # --- VS Code ---
 .vscode/
+
+# --- CMake Build Files ---
+build/
